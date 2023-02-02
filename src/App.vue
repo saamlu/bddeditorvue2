@@ -34,6 +34,7 @@
       >
       <div class="align-left">
         <span class="mr-2">BDD Editor</span>
+        <span class="mr-2">BDD Editor updated machine2 </span>
       </div>
       
         <!-- <v-icon>mdi-open-in-new</v-icon> -->
